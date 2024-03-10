@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1CDAC9&height=120&section=header"/>
 
 # Ola. Seja bem vindo(a) ao meu repositório
-  #epositório para projetos pessoais.
+  Repositório para projetos pessoais.
 
 ## Habilidades
   ### Linguagens de programação
