@@ -4,7 +4,7 @@
   Repositório para projetos pessoais.
 
 ## Habilidades
-  ### Linguagens de programação
+  ### Linguagens de programação e outras tecnologias
 
   <div style="display: inline_block"><br>
     <img align="center" height="40" width="100" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
